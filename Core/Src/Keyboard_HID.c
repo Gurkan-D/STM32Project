@@ -1,11 +1,4 @@
-/*
- * Include this code in your project.
- * You can also add this and the header file to your project.
- * Make sure to include header file in main.c
- * Some actions are based on English keyboard layout.
- * Only letters and symbols '.', "space", "enter" '!' and '?' are implemented.
- * Add cases in switch statement at line 38 for additional symbols and actions
-*/
+
 
 #include "Keyboard_HID.h"
 #include "usb_device.h"
